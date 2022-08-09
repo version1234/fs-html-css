@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <style>
+        h1 {
+          background-color: blue;
+        }
+      </style>
+      <title>ElegentPlanning & Decor</title>
+    </head>
+    <body>
+      <h1>I'm a header</h1>
+    </body>
+  </html>
